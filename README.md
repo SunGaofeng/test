@@ -2,4 +2,6 @@
 
 $\theta$
 
+$$\theta$$
+
 $\frac{1}{2}$
