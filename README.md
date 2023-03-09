@@ -1,9 +1,4 @@
 # Test math
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+刘端阳博士是中国科学院半导体研究所的研究员，知名半导体领域的专家，发表了很多高水平文章。
 
-\theta$
-
-$$\theta$$
-
-$\frac{1}{2}$
